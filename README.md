@@ -1,4 +1,4 @@
-# mahe-hasan
+
 # Hi there 👋, I'm Md Mahedul Hasan Mahe
 
 🎓 Final Year Computer Science & Engineering student at ULAB  
@@ -21,7 +21,7 @@
 
 ## 📫 Reach me at:  
 - Email: mahedulhassan147@gmail.com  
-- LinkedIn: [linkedin.com/in/your-linkedin](#)  
+- LinkedIn: [](#)  
 
 ---
 *Let's build something amazing together!* 🚀
