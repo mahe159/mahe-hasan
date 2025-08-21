@@ -16,8 +16,8 @@
 - **[Appendicitis Diagnosis with AI](#)**  
 - **[Arduino Traffic Light Simulation](#)**  
 - **[University Hostel Network Simulation](#)**  
-- **[Big Data Analytics Assignment](#)**  
-- **[SDG 6 Data Visualization](#)**  
+- **[Big Data Analytics project](#)**  
+ 
 
 ## 📫 Reach me at:  
 - Email: mahedulhassan147@gmail.com  
